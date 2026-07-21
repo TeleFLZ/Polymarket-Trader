@@ -1,0 +1,9 @@
+python-dotenv==1.0.1
+requests==2.32.3
+
+# Polymarket API
+py-clob-client==0.19.0
+
+# Дополнительно
+web3==7.3.0
+eth-account==0.13.4
