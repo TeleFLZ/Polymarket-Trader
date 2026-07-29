@@ -1,6 +1,6 @@
 # 🤖 Polymarket Trading Bot
 
-Автоматический торговый бот для Polymarket на Python.
+Automatic trading bot for Polymarket in Python.Automatic trading bot for Polymarket in Python.
 
 ## ⚠️ Важно
 
